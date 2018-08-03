@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstAndroidAppTyimca</string>
+    <string name="et_hint">Enter name</string>
+</resources>
